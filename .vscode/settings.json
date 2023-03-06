@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "ems",
+            "database": "employee-management-system",
+            "password": "ems@1210",
+            "username": "ems",
+            "connectionTimeout": 1000
+        }
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
